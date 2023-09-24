@@ -1,0 +1,1351 @@
+header: 
+  seq: 1
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230457.0
+latitude: 4224.02166
+longitude: 7103.82876
+altitude: -28.8
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 2
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230458.0
+latitude: 4224.02129
+longitude: 7103.82847
+altitude: -28.8
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 3
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230459.0
+latitude: 4224.02081
+longitude: 7103.82839
+altitude: -28.7
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 4
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230500.0
+latitude: 4224.02089
+longitude: 7103.82798
+altitude: -28.5
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 5
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230501.0
+latitude: 4224.02119
+longitude: 7103.82747
+altitude: -28.3
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 6
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230502.0
+latitude: 4224.02091
+longitude: 7103.8269
+altitude: -28.1
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 7
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230503.0
+latitude: 4224.02098
+longitude: 7103.82652
+altitude: -27.7
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 8
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230504.0
+latitude: 4224.02102
+longitude: 7103.82611
+altitude: -27.5
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 9
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230505.0
+latitude: 4224.02087
+longitude: 7103.82577
+altitude: -27.2
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 10
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230506.0
+latitude: 4224.02056
+longitude: 7103.82557
+altitude: -26.9
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 11
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230622.0
+latitude: 4224.02607
+longitude: 7103.81881
+altitude: -45.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 12
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230623.0
+latitude: 4224.02615
+longitude: 7103.81886
+altitude: -45.8
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 13
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230624.0
+latitude: 4224.02628
+longitude: 7103.81889
+altitude: -46.6
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 14
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230625.0
+latitude: 4224.02638
+longitude: 7103.81894
+altitude: -47.4
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 15
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230626.0
+latitude: 4224.02639
+longitude: 7103.81899
+altitude: -48.4
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 16
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230627.0
+latitude: 4224.02678
+longitude: 7103.81891
+altitude: -49.3
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 17
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230628.0
+latitude: 4224.02676
+longitude: 7103.8189
+altitude: -50.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 18
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230629.0
+latitude: 4224.02697
+longitude: 7103.81887
+altitude: -50.4
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 19
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230630.0
+latitude: 4224.02721
+longitude: 7103.81893
+altitude: -51.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 20
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230631.0
+latitude: 4224.02728
+longitude: 7103.81911
+altitude: -52.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 21
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230748.0
+latitude: 4224.02642
+longitude: 7103.80841
+altitude: -12.3
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 22
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230749.0
+latitude: 4224.02641
+longitude: 7103.8084
+altitude: -12.4
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 23
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230750.0
+latitude: 4224.0263
+longitude: 7103.80837
+altitude: -12.4
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 24
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230751.0
+latitude: 4224.02622
+longitude: 7103.80834
+altitude: -12.6
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 25
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230752.0
+latitude: 4224.02612
+longitude: 7103.80828
+altitude: -12.4
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 26
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230753.0
+latitude: 4224.02601
+longitude: 7103.80826
+altitude: -12.3
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 27
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230754.0
+latitude: 4224.02591
+longitude: 7103.80818
+altitude: -12.3
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 28
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230755.0
+latitude: 4224.02594
+longitude: 7103.8083
+altitude: -13.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 29
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230756.0
+latitude: 4224.02591
+longitude: 7103.80837
+altitude: -13.5
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 30
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230757.0
+latitude: 4224.02574
+longitude: 7103.80845
+altitude: -13.8
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 31
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230928.0
+latitude: 4224.02601
+longitude: 7103.80241
+altitude: 11.7
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 32
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230929.0
+latitude: 4224.0261
+longitude: 7103.80221
+altitude: 12.7
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 33
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230930.0
+latitude: 4224.02642
+longitude: 7103.80233
+altitude: 13.7
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 34
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230949.0
+latitude: 422466.0
+longitude: 4.0
+altitude: 3.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 35
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 230956.0
+latitude: 4224.02601
+longitude: 7103.79
+altitude: 48.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 36
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231007.0
+latitude: 4224.02
+longitude: 30.0
+altitude: 315.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 37
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231017.0
+latitude: 4224.02473
+longitude: 18.0
+altitude: 16.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 38
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231022.0
+latitude: 4224.02
+longitude: 30.0
+altitude: 315.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 39
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231023.0
+latitude: 4224.02237
+longitude: 7103.7616
+altitude: 48.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 40
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231024.0
+latitude: 4224.02191
+longitude: 7103.7
+altitude: 16.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 41
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231025.0
+latitude: 4224.021831
+longitude: 19.0
+altitude: 16.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 42
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231028.0
+latitude: 4224.0231
+longitude: 17.0
+altitude: 16.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 43
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231045.0
+latitude: 4224.02184
+longitude: 15.0
+altitude: 16.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 44
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231051.0
+latitude: 4224.0201
+longitude: 11.0
+altitude: 16.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 45
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231054.0
+latitude: 4224.01901
+longitude: 7103.76264
+altitude: 49.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 46
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231055.0
+latitude: 4224.01988
+longitude: 14.0
+altitude: 16.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 47
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231103.0
+latitude: 4224.02324
+longitude: 7103.75084
+altitude: 16.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 48
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231127.0
+latitude: 4224.03249
+longitude: 7103.786
+altitude: 210.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 49
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231132.0
+latitude: 4224.03085
+longitude: 7103.0
+altitude: 16.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 50
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231135.0
+latitude: 4224.02893
+longitude: 7103.79474
+altitude: 210.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 51
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231136.0
+latitude: 4224.02887
+longitude: 7103.79456
+altitude: 49.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 52
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231137.0
+latitude: 4224.02874
+longitude: 7103.79388
+altitude: 10.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 53
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231151.0
+latitude: 4224.02963
+longitude: 7103.79021
+altitude: 3.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 54
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231212.0
+latitude: 4224.0
+longitude: 31.0
+altitude: 315.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 55
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231213.0
+latitude: 4224.03012
+longitude: 7103.7847
+altitude: 211.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 56
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231219.0
+latitude: 4224.02995
+longitude: 7103.78234
+altitude: 211.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 57
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231224.0
+latitude: 4224.03074
+longitude: 8.0
+altitude: 16.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 58
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231226.0
+latitude: 4224.03101
+longitude: 708.0
+altitude: 16.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 59
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231227.0
+latitude: 265.0
+longitude: 4.0
+altitude: 4.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 60
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231305.0
+latitude: 4224.0326931
+longitude: 25.0
+altitude: 16.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 61
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231308.0
+latitude: 4224.03296
+longitude: 7103.81311
+altitude: 0.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 62
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231320.0
+latitude: 4224.03
+longitude: 4.0
+altitude: 4.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 63
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231321.0
+latitude: 4224.033
+longitude: 32.0
+altitude: 315.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 64
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231323.0
+latitude: 4224.033
+longitude: 32.0
+altitude: 315.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 65
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231325.0
+latitude: 4224.0333
+longitude: 7103.8012
+altitude: 50.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 66
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231327.0
+latitude: 4224.03339
+longitude: 7103.86
+altitude: 16.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 67
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231331.0
+latitude: 4224.03219
+longitude: 7103.7
+altitude: 16.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 68
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231333.0
+latitude: 422.0
+longitude: 264.0
+altitude: 26.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 69
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231336.001
+latitude: 3.0
+longitude: 264.0
+altitude: 26.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 70
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231401.0
+latitude: 4224.02168
+longitude: 7103.77108
+altitude: 16.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 71
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231402.0
+latitude: 4224.0216
+longitude: 7103.77125
+altitude: 51.211
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 72
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231403.1
+latitude: 3.0
+longitude: 264.0
+altitude: 16.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 73
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231405.001
+latitude: 3.0
+longitude: 264.0
+altitude: 15.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 74
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231406.0
+latitude: 4224.02196
+longitude: 32.0
+altitude: 315.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 75
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231407.0
+latitude: 4.0
+longitude: 264.0
+altitude: 15.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 76
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231411.0
+latitude: 4224.02241
+longitude: 32.0
+altitude: 315.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 77
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231417.0
+latitude: 4224.02
+longitude: 32.0
+altitude: 315.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 78
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231418.0
+latitude: 4224.02413
+longitude: 7103.7740605
+altitude: 211.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 79
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231423.0
+latitude: 4224.0223
+longitude: 7103.77332
+altitude: 16.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 80
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231425.0
+latitude: 4224.02103
+longitude: 32.0
+altitude: 315.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 81
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231429.0
+latitude: 4224.064
+longitude: 4.0
+altitude: 5.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 82
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231435.0
+latitude: 4224.01669
+longitude: 32.0
+altitude: 315.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 83
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231436.0
+latitude: 4224.01639
+longitude: 7103.77593
+altitude: 67.1
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 84
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231442.0
+latitude: 4224.01506
+longitude: 4.0
+altitude: 5.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 85
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231444.0
+latitude: 4224.01263
+longitude: 4.0
+altitude: 5.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 86
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231445.0
+latitude: 422434.0
+longitude: 16.0
+altitude: 9.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 87
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231446.0
+latitude: 4224.01563
+longitude: 4.0
+altitude: 5.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 88
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231449.0
+latitude: 422434.0
+longitude: 11.0
+altitude: 9.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 89
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231453.0
+latitude: 4224.4
+longitude: 10.0
+altitude: 9.0
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+header: 
+  seq: 90
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+unformatted_time: 231454.0
+latitude: 4224.01485
+longitude: 7103.76977
+altitude: 85.5
+utm_easting: 0.0
+utm_northing: 0.0
+zone: 0
+letter: "None"
+---
+
